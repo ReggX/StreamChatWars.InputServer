@@ -1,0 +1,3 @@
+[submodule "StreamChatWars"]
+	path = StreamChatWars
+	url = https://github.com/ReggX/StreamChatWars.git

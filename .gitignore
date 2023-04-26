@@ -1,0 +1,5 @@
+venv/
+.venv/
+.vscode/
+scratch/
+__pycache__/
